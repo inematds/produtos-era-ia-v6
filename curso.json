@@ -1,0 +1,18 @@
+{
+  "id": "produtosia6",
+  "titulo": "Produtos na era da IA v6 — saber o que vale a pena construir",
+  "titulo_html": "Saber o que <em>vale a pena</em> construir",
+  "curso_curto": "Produtos na era da IA v6",
+  "kicker": "Produtos na era da IA v6 · 3 módulos · aulas de uns 15 minutos",
+  "lead": "Hoje dá para construir quase qualquer coisa com IA. Este curso ensina a decidir se a sua ideia merece existir, como protegê-la de cópia e como fazer as pessoas certas a encontrarem. Você sai com a ficha da sua ideia preenchida, aula a aula.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "Uma contadora e um fisioterapeuta conversam numa mesa de café, com um caderno aberto entre os dois, discutindo uma ideia.",
+  "rodape": "Produtos na era da IA v6 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "glossario": true,
+  "modulos": [
+    {"titulo": "A mentalidade", "resumo": "Construir ficou barato. Julgar ficou caro. Você aprende a olhar a ideia com os olhos de quem vai escolher entre dez iguais.", "aulas": [1, 2, 3, 4, 5, 6]},
+    {"titulo": "Vale a pena construir?", "resumo": "As perguntas que separam a ideia boa da ideia que só é possível: dor, prazo de validade, cópia, dados e rotina.", "aulas": [7, 8, 9, 10, 11, 12]},
+    {"titulo": "Lançar e crescer", "resumo": "Distribuição, uma frase que explica tudo, valor em dois minutos e teste com usuários simulados antes do público real.", "aulas": [13, 14, 15, 16, 17, 18]}
+  ]
+}
