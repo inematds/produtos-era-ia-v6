@@ -14,4 +14,5 @@ When I correct you, or you catch yourself making a mistake: before continuing, a
 
 ## Lessons
 
+- Remontar tradução sempre com TODOS os idiomas (`traduzir-curso.py . en es --so-montar`): rodar só `en` apaga os links para `es` nas páginas PT e EN. (28/09/2026)
 - `montar-curso.py` troca cada tag por espaço no card da trilha: não termine um `<em>` logo antes de pontuação no `<h1>` (sai "escolhido , não"). (28/09/2026)
