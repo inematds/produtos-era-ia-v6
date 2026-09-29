@@ -22,5 +22,6 @@ Versão v2 (3 trilhas, 54 tópicos): https://inematds.github.io/produtos-era-ia/
 
 ## Mais no INEMA.CLUB
 
+- [Ficha deste curso](https://www.inema.club/cursos/308-produtos-na-era-da-ia-v6-saber-o-que-vale-a-pena-construir/)
 - [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
 - [Todos os cursos](https://www.inema.club/cursos/)
